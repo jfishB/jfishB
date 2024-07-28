@@ -3,7 +3,7 @@ University of Toronto Computer Science Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jeevesh0126)
 <a href="https://www.linkedin.com/in/jeevesh0126" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" style="width: 100px; height: 40px;">
+    <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" style="width: 80px; height: 15px;">
 </a>
 
 <!--
