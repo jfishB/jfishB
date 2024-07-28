@@ -1,6 +1,7 @@
 ## Hey, I'm Jeevesh 👋
 University of Toronto Computer Science Student
-<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jeevesh0126)
 <a href="https://www.linkedin.com/in/jeevesh0126" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-black?logo=linkedin&logoColor=white&style=flat-square" style="width: 120px; height: 30px;">
 </a>
