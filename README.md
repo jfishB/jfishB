@@ -1,7 +1,8 @@
 ## Hey, I'm Jeevesh 👋
 University of Toronto Computer Science Student
+<br>
 <a href="https://www.linkedin.com/in/jeevesh0126" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=flat-square" alt="LinkedIn Profile" style="width: 150px; height: 30px;">
+    <img src="https://img.shields.io/badge/-black?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn Profile" style="width: 150px; height: 30px;">
 </a>
 <!--
 **jfishB/jfishB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
