@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Hey, I'm Jeevesh 👋
+University of Toronto Computer Science Student
+- [LinkedIn](https://www.linkedin.com/in/jeevesh0126)
 <!--
 **jfishB/jfishB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
