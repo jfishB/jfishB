@@ -1,10 +1,10 @@
 ## Hey, I'm Jeevesh 👋
 
 University of Toronto Computer Science Student
-<br>
-https://jeeveshbalendra.pages.dev/
+<be>
+<a href="https://jeeveshbalendra.pages.dev/" target="_blank">
 <p>
-  <a href="https://www.linkedin.com/in/jeevesh0126" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/jeevesh0126" style="text-decoration:none;" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jfishB"alt="https://www.linkedin.com/in/jfishB">
   </a>
 </p>
