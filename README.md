@@ -2,7 +2,7 @@
 
 University of Toronto Computer Science Student
 <p>
-  <a href="https://jeeveshbalendra.pages.dev/" style="text-decoration:none;">
+  <a href="https://jeeveshbalendra.vercel.app" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&amp;logo=Nextdotjs&amp;logoColor=white&amp;link=https://jeeveshbalendra.pages.dev/"alt="https://jeeveshbalendra.pages.dev/">
   </a>
   <br>
